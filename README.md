@@ -3,7 +3,7 @@ Bootable BIOS, Firmware and Diagnostic repo based on Syslinux.
 Developed/Maintained offline since 2011-05 for the place I work.
 Slowly migrating to GitHub in hope to create a better, and more complete firmware repo.
 
-The main menu consists of several submenues
+The main menu consists of several submenus
 * BIOS (Laptops, Desktops, Servers; mainly DELL for now)
 * Firmware (HDD, SSD, NIC, ESM, ODD, StorageControllers) 
 * Diagnostics (CPU, GPU, HDD, NIC, OEM, RAM)
