@@ -4,9 +4,9 @@ Developed/Maintained offline since 2011-05 for the place I work.
 Slowly migrating to GitHub in hope to create a better, and more complete firmware repo.
 
 The main menu consists of several submenues
-BIOS (Laptops, Desktops, Servers; mainly DELL for now)
-Firmware (HDD, SSD, NIC, ESM, ODD, StorageControllers) 
-Diagnostics (CPU, GPU, HDD, NIC, OEM, RAM)
+* BIOS (Laptops, Desktops, Servers; mainly DELL for now)
+* Firmware (HDD, SSD, NIC, ESM, ODD, StorageControllers) 
+* Diagnostics (CPU, GPU, HDD, NIC, OEM, RAM)
 
 Most of the BIOS and Firmware updates are still released for DOS. That's why I'm using FreeDOS 1440 KB or
 2880 KB (and recently 5760 KB) floppy images. Sometimes HDD images or even the original ISO or Floppy images
