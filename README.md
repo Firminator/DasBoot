@@ -18,6 +18,7 @@ My FDD image template is a bare minimum FreeDOS compilation with the latest avai
 -> CMD8086.COM v0.84-pre XMS_SWAP (2006-06-06) and COMMAND.COM v0.84-pre2 XMS_SWAP (2006-08-28)
 -> HiMemX v3.32 (2008-03-13) and Jemm386/JemmEx v5.75 (2011-05-31)
 -> NANSI v4.0d (2007-05-26)
+
 Config.sys looks like this:
 
 MENU                      FreeDOS 2041 Config.sys Presets
