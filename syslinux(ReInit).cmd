@@ -24,5 +24,5 @@ rem === Note the drive letter S: at the end;
 rem === Adjust this to the drive letter of the UFD or portable USB-HDD you want
 rem === to make bootable
 rem ===
-"%~dp0_sources\syslinux-6.03\bios\win32\syslinux.exe" -m -a -d /boot/syslinux S:
+"%~dp0syslinux.exe" -m -a -d /boot/syslinux S:
 pause
